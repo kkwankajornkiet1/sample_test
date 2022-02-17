@@ -1,6 +1,7 @@
 # Introducing what's new page
 
 Let's start with **Lorem Ipsum**
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia vestibulum scelerisque. Quisque in sapien vitae neque ultricies viverra. Phasellus elementum nisl justo, vitae egestas augue iaculis at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur vitae tortor congue, mattis ex at, mollis enim. Nullam at est turpis. Vestibulum mollis metus orci, at varius tortor molestie eget.
 
 Etiam vel augue ut nulla vehicula volutpat. Donec consectetur ex at massa accumsan fermentum. Vestibulum ac nunc nec mi venenatis varius. Fusce pellentesque pretium nunc sed eleifend. Suspendisse ut augue odio. Quisque vitae arcu blandit, scelerisque enim et, pretium metus. Nulla varius tellus vulputate sapien vehicula, at gravida augue condimentum. Nunc consectetur velit at sem pretium rhoncus. Fusce aliquam pretium urna, eu posuere libero placerat consectetur. Nullam pellentesque finibus malesuada. Vestibulum dapibus auctor suscipit. Integer vehicula fermentum luctus. Curabitur quis ultrices odio. Aliquam fringilla elit elit, non feugiat ex pharetra vitae.
